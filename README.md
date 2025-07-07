@@ -20,7 +20,7 @@ Visual novel adalah jenis permainan yang fokus pada penceritaan dan pengembangan
 * C++ compiler
 * Cmake
 * Ninja
-Direkomendasikan untuk update ke versi terbaru
+<br />Direkomendasikan untuk update ke versi terbaru
 
 ### Install guide
 1. Download seluruh file project
